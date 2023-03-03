@@ -1,0 +1,41 @@
+.container {
+    width: 70%;
+    margin: auto;
+}
+
+.opertion {
+    width: 30%;
+    padding: 20px;
+    border: 2px solid #000;
+    background: #000;
+}
+
+.input {
+    margin: 10px;
+}
+
+.input input{
+    padding: 15px 40px;
+}
+
+.number .enter {
+    padding: 10px 80px;
+    margin: 10px;
+    background: #d0d1d0d7;
+}
+
+.number #plus, #minus, #mul, #modul, #division, #power {
+    background: #6c6e79e1;
+    color: #000;
+    padding: 10px;
+    margin: 10px;
+}
+
+.number #one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #zero {
+    background: #755f5f;
+    color: #fff; padding: 10px;
+    margin: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
